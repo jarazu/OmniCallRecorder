@@ -1,3 +1,4 @@
+# C:\Users\jahangir\.gemini\antigravity-ide\scratch\OmniCallRecorder
 # OmniCall Recorder: Universal Android Call & VoIP Recorder
 
 **OmniCall Recorder** is an advanced, production-ready native Android application (written in Kotlin) designed to record **both regular cellular phone calls and third-party VoIP calls (such as WhatsApp & WhatsApp Business)** on modern unrooted Android devices (Android 9.0 through Android 14/15).
