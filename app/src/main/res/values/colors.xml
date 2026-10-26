@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Backgrounds -->
+    <color name="bg_dark">#0F1117</color>
+    <color name="bg_surface">#181B24</color>
+    <color name="bg_card">#222634</color>
+    <color name="bg_card_elevated">#2B3042</color>
+
+    <!-- Accent Colors -->
+    <color name="color_primary">#00D285</color>
+    <color name="color_primary_variant">#009A60</color>
+    <color name="color_secondary">#4D7CFF</color>
+    <color name="color_accent">#FF4B6E</color>
+
+    <!-- Call Badge Colors -->
+    <color name="badge_whatsapp">#25D366</color>
+    <color name="badge_whatsapp_bg">#1A2E26</color>
+    <color name="badge_cellular">#3B82F6</color>
+    <color name="badge_cellular_bg">#1E293B</color>
+
+    <!-- Text Colors -->
+    <color name="text_primary">#F8FAFC</color>
+    <color name="text_secondary">#94A3B8</color>
+    <color name="text_muted">#64748B</color>
+
+    <!-- Status Colors -->
+    <color name="status_green">#10B981</color>
+    <color name="status_red">#EF4444</color>
+    <color name="status_amber">#F59E0B</color>
+
+    <!-- Divider & Strokes -->
+    <color name="divider_color">#2D3748</color>
+    <color name="player_progress">#00D285</color>
+</resources>

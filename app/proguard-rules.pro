@@ -1,0 +1,2 @@
+-keep class com.omnicall.recorder.data.model.** { *; }
+-keep class com.omnicall.recorder.data.db.** { *; }

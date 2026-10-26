@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">OmniCall Recorder</string>
+    <string name="permissions_setup_title">Setup &amp; Permissions</string>
+    <string name="accessibility_service_name">OmniCall WhatsApp &amp; VoIP Call Detector</string>
+    <string name="accessibility_service_description">Used by OmniCall to automatically detect when a WhatsApp or cellular voice call starts and ends, allowing background recording without manual interaction.</string>
+    <string name="notification_listener_name">OmniCall Notification Call Listener</string>
+
+    <!-- Notification Strings -->
+    <string name="notification_channel_name">Call Recording Service</string>
+    <string name="notification_channel_desc">Active recording status indicator</string>
+    <string name="recording_in_progress">Recording Active Call</string>
+    <string name="recording_saved">Call recording saved successfully</string>
+
+    <!-- UI Strings -->
+    <string name="status_service_active">Call Recording Engine Active</string>
+    <string name="status_service_inactive">Permissions Required to Enable</string>
+    <string name="setup_required_hint">Tap here to grant required permissions for automatic WhatsApp &amp; cellular recording.</string>
+    <string name="tab_all">All Calls</string>
+    <string name="tab_whatsapp">WhatsApp</string>
+    <string name="tab_cellular">Cellular</string>
+    <string name="search_recordings_hint">Search by caller name or number…</string>
+    <string name="no_recordings_found">No call recordings yet</string>
+    <string name="no_recordings_subtitle">Calls from WhatsApp and your phone dialer will appear here automatically.</string>
+    <string name="storage_location_title">Storage Location</string>
+    <string name="total_recordings_label">Total Recordings</string>
+    <string name="auto_record_toggle_label">Auto-Record All Calls</string>
+    <string name="loudspeaker_tip">Pro Tip: Modern Android blocks direct internal VoIP audio. Keeping speakerphone ON gives crystal clear two-way recording!</string>
+</resources>
